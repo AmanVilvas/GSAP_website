@@ -1,2 +1,1 @@
-# GSAP_website
-smooth scrolling ✅ attach loco scroll css ✅ attach locomotive scroll min js ✅ some code from loco github for js ✅
+My first Awwwards GSAP website made by using js html css with smooth scrolling and other things.
